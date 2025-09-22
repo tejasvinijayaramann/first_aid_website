@@ -28,4 +28,9 @@ The **Health Emergency Assistant** is a web application designed to provide imme
     4.Push to the branch (git push origin feature/YourFeature).
     5.Create a new Pull Request.
 
-    
+📞 Contact
+    For any inquiries or feedback, please reach out to: 
+    Email: tejasvinijayaramann@gmail.com 
+    GitHub: https://github.com/tejasvinijayaramann 
+    LinkedIn: www.linkedin.com/in/tejasvini-jayaraman-6a2200312 
+    LinkedIn: www.linkedin.com/in/vadlamani-varun-adhithya-bba40b334/
